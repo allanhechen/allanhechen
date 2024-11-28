@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Allan, I'm finishing my third year of Computer Science at TMU.
+
+I'm looking to go into software engineering in the future, but there's still a lot to learn.
+
+I admit it's a bit empty here right now, but good things are coming soon...
 <!--
 **allanhechen/allanhechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

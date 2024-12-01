@@ -1,21 +1,18 @@
-## Hi there 👋
+## Hi there 👋  
 
-My name is Allan, I'm finishing my third year of Computer Science at TMU.
+My name is Allan, and I'm currently finishing my third year of **Computer Science** at TMU.  
 
-I'm looking to go into software engineering in the future, but there's still a lot to learn.
+I'm aspiring to become a **software engineer** in the future, though I know there's still a lot to learn along the way.  
 
-I admit it's a bit empty here right now, but good things are coming soon...
-<!--
-**allanhechen/allanhechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here's what I already know:  
+- **Java** ☕  
+- **Python** 🐍  
+- **Docker** 🐳  
+- **HTML** 🌐  
+- **CSS** 🎨  
+- **JavaScript** ✨  
+- **React** ⚛️
+- **SQL** 🗄️
+- **REST APIs** 🔗  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on learning Next.js, and then I will build a full-stack web application to help students at TMU choose their course paths!
